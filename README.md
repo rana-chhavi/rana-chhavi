@@ -9,6 +9,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 - 💻 Frontend, Backend, LLMs
 - 👨‍💻 I enjoy working across the stack to bring ideas to life.
+- ⚡️ Believer in building small, shipping fast, and iterating often.
 - ✍️ Writes blogs occassionally
 - 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
 

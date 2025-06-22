@@ -1,46 +1,39 @@
+<a href="https://komarev.com/ghpvc/?username=AryanBisht-03">
+  <img align="right" src="https://komarev.com/ghpvc/?username=rana-chhavi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
-# Hi, I'm Chhavi 👋🏾👨‍💻
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEqu8or_) 
-[![Linkedin: Chhavi](https://img.shields.io/badge/-Chhavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rana-chhavi/)](https://www.linkedin.com/in/chhavi-rana/)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=chhavi-rana&color=brightgreen">  
-![Green Minimalist Flatlay  (LinkedIn Banner)](https://user-images.githubusercontent.com/83640180/194698085-6f83f4f4-8fee-446a-bf60-05caed62ad08.png)
-
+<h1 align="center">Hello, I'm Chhavi Rana! 👋👨‍💻</h1>
 
 
 ## 👨🏻‍💻 &nbsp;About Me
+- 💻 Frontend, Backend, LLMs
+- 👨‍💻 I enjoy working across the stack to bring ideas to life.
+- ✍️ Writes blogs occassionally
+- 😄 I enjoy meeting new people and discussing technology, projects, and everyday topics
 
 
 
+## Projects
+- [DineReview](https://github.com/rana-chhavi/DineReview) - Helps users discover local restaurants, read authentic reviews, and share their own dining experiences.
+- [PaintPal](https://github.com/rana-chhavi/PaintPal) - Managing painting collections and connecting with enthusiasts
 
 
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Indian Institute of Information Technology, Senapati.
+## 🚀 Technologies
 
-🌱 &nbsp;I'm on track for learning more about computer fundamentals, Systems Design, and Algorithms.  
-
-
-# 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+| Category   | Technologies                                                                 |
+|------------|------------------------------------------------------------------------------|
+| **Languages** | Java, TypeScript, JavaScript                                                  |
+| **Frontend**  | Angular, React, Next.js, PrimeNG, Tailwind CSS, amCharts, OpenLayers         |
+| **Backend**   | Spring Boot, Redis, Kafka, Elasticsearch, MongoDB, PostgreSQL                |
+| **Others**    | Git, Keycloak, Docker, AWS                                                   |
 
 
-
-<!-- Find me around the web 🌎 <a href="https://www.linkedin.com/in/chhavirana7/"><img align="left" width="150" height="146" src=""></a> -->
-- Struggling on <a href="https://leetcode.com//">LeetCode</a> 😍
-- Sharing updates on <a href="https://www.linkedin.com/in/rana-chhavi/">LinkedIn</a> 😇
-
-<!-- ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/chhavi-rana/chhavi-rana/blob/output/github-contribution-grid-snake.svg) -->
+## Connect with me
+<p align="left">
+<a href="https://dev.to/chhavirana" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/chhavi_rana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rana-chhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/rana.chhavi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
